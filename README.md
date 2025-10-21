@@ -28,4 +28,7 @@ The app automates outreach by allowing users to upload recruiter contact lists, 
 - **Logging:** CSV-based logging system  
 
 ---
+python -m venv venv
+source venv/bin/activate     # (Mac/Linux)
+venv\Scripts\activate        # (Windows)
 
